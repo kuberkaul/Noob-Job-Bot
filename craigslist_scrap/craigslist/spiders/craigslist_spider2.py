@@ -24,8 +24,14 @@ Dictionary = defaultdict(list)
 class MySpider(BaseSpider):
     name = "craig"
     allowed_domains = ["craigslist.org"]
-    start_urls = ["http://sfbay.craigslist.org/sof/"]
+    scrap_site = raw_input("**Enter the full url to a craiglist page you want to scrap, otherwise press Enter for default url**\n")
+    if scrap_site == "":
+    	start_urls = ["http://sfbay.craigslist.org/sof/"]
+    else:
+	start_urls = scrap_site 
     def parse(self, response):
+	username = raw_input("*******Enter your gmail email-id or press enter to use default:********\n")
+    	password = raw_input("*******Enter your gmail password or press enter to use default:*******\n")
     	hxs = HtmlXPathSelector(response)
 	titles = hxs.select("//span[@class='pl']")
 	for titles in titles:
@@ -100,13 +106,25 @@ class MySpider(BaseSpider):
 			edit_1 = ""
 			newest_edited_line = ""
 			keyword = ""
-	
-	       	gmail_user = "noobjobbot@gmail.com"
-		gmail_pwd = "1234567890asdfghjkl"
-		FROM = 'noobjobbot@gmail.com'
+		
+		#sending mail from gmail script
+		
+		msg = MIMEMultipart() 	     
+		if username == "" :             
+			gmail_user = "noobjobbot@gmail.com"
+			FROM = "noobjobbot@gmail.com"
+			msg['From'] = "noobjobbot@gmail.com"
+		else:
+			gmail_user = username
+			FROM = username
+			msg['From'] = username
+		if password == "":
+			gmail_pwd = "1234567890asdfghjkl"
+		else:
+			gmail_pwd = password
 		TO =  'kuberkaul@icloud.com'   #str(Dictionary[key][1]) #must be a list
-		msg = MIMEMultipart()
-		msg['From'] = "noobjobbot@gmail.com"
+		#msg = MIMEMultipart()
+		#msg['From'] = "noobjobbot@gmail.com"
 		msg['To'] = str(Dictionary[key][1])
 		msg['Date'] = formatdate(localtime=True)
 		title_replaced = str(Dictionary[key][2]).translate(None, "[]'")
