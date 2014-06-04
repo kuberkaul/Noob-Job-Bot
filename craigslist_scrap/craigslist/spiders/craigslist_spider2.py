@@ -83,7 +83,7 @@ class MySpider(BaseSpider):
     	
 	for key in Dictionary.keys():
             	w = getwords(Dictionary[key][0])
-		technical_glossary = ['java','c','c++','python','ruby','c#','sql','databases','programming','aws','cloud computing','cloud','ada','apache','awk','bootstrapping','debian','gnu','jakarta project','javaScript', 'linux', 'liveware','lotus software','macintosh','mac','oracle','perl','php','swing','tomcat', 'ubuntu', 'linux','unix']
+		technical_glossary = ['java','c','c++','c#','sql','databases','programming','cloud computing','sharepoint','cloud','javaScript', 'linux','oracle','swing','ubuntu', 'linux','unix','geneva', 'document refining', 'requirement gathering', 'testing', 'unit testing', 'user manuals', 'induction pack','data migration','macros' ]
 
 		for words in w:
 			if words in technical_glossary:
@@ -122,7 +122,7 @@ class MySpider(BaseSpider):
 			gmail_pwd = "1234567890asdfghjkl"
 		else:
 			gmail_pwd = password
-		TO =  'kuberkaul@icloud.com'   #str(Dictionary[key][1]) #must be a list
+		TO = str(Dictionary[key][1]) #must be a list
 		#msg = MIMEMultipart()
 		#msg['From'] = "noobjobbot@gmail.com"
 		msg['To'] = str(Dictionary[key][1])
@@ -131,16 +131,16 @@ class MySpider(BaseSpider):
                 title_replaced = title_replaced[1:]
 		msg['Subject'] = "Application to craig. job ad - " + str(title_replaced) 
 
-		body =  "LL100, 45 Tiemann Place New York 10027\nDate: "+formatdate(localtime=True)+"\nTo whomsoever it may concern\n\n\nEmail: nr2445@columbia.edu\nNandita Rao\n\n"+"				Subject: "+str(title_replaced)+"\n\nI am writing in connection with the ad you recently posted in craiglist at "+ str(Dictionary[key][3])+". I am writing to you to request you to consider me for the position of intern/part-time/freelance work. This internship/part-time/freelancing will help me build a strong foundation in the career I wish to pursue.\n\nI have a professional experience of 2 years at Infosys Technologies and Samsung India Software Operations details of which are present in the attached resume. The projects that I have worked on in my first semester include building an online bidding system using UDP Socket programming in Java, a web application designed for tourists in New York, to help them plan a day at Times Square using Struts2 and Hibernate. I’m currently studying Analysis of Algorithms, Compiler and Language design, Cloud computing and Cellular networks. The Cloud computing project involves building an application similar to Flickr and the Cellular Networks project is an Android application which involves monitoring of sensor data and sending appropriate alerts to the enlisted emergency contacts. Both the projects are being implemented in Java.\n\n"+str(edit_1)+str(newest_edited_line)+". I believe that my expertise combined with my motivation and enthusiasm will make me a good fit for your job descripttion. I thank you in advance for reviewing my application and would welcome the opportunity to speak to you further about this job position.\n\nThank you for your time and consideration.\n\nSincerely,\nNandita Rao"
+		body =  "230, Sandpiper Drive Davis 95616\nDate: "+formatdate(localtime=True)+"\nTo whomsoever it may concern\n\n\nEmail: rkaul5@yahoo.com\nRoma Kaul\n\n"+"				Subject: "+str(title_replaced)+"\n\nI am writing in connection with the ad you recently posted in craiglist at "+ str(Dictionary[key][3])+". I am writing to you to request you to consider me for the position of fulltime/intern/part-time/freelance work. This fulltime/internship/part-time/freelancing will help me build a strong foundation in the career I wish to pursue.\n\nI have a professional experience of 1.5 years at Genpact Headstrong Capital Markets, details of which are present in the attached resume. The projects that I have worked on in my undergrad include digital image processing that allowed to modify an image quality and a fully functional e-shopping website. I’m  currently working on a project for pfizer which involves developement of two site collections for their internal portal to be created on sharepoint technology 2010. My last project involved creation of UML for Bank of America.  Both the projects are being implemented in c#/.net.\n\n"+str(edit_1)+str(newest_edited_line)+". I believe that my expertise combined with my motivation and enthusiasm will make me a good fit for your job description. I thank you in advance for reviewing my application and would welcome the opportunity to speak to you further about this job position.\n\nThank you for your time and consideration.\n\nSincerely,\nRoma Kaul"
 		
 		print body
         #next section commented for testing
-		'''	
+		
 		msg.attach(MIMEText(body))
 		part = MIMEBase('application', "octet-stream")
 		part.set_payload( open("resume.pdf","rb").read() )
 		Encoders.encode_base64(part)
-		part.add_header('Content-Disposition', 'attachment; filename="Nandita - Resume"')
+		part.add_header('Content-Disposition', 'attachment; filename="Roma - Resume"')
 		msg.attach(part)	
 		server = smtplib.SMTP("smtp.gmail.com", 587) #or port 465 doesn't seem to work!
 		server.ehlo()
@@ -151,4 +151,4 @@ class MySpider(BaseSpider):
 		#server.quit()
 		server.close()
 		print 'successfully sent the mail'
-		'''	
+			
