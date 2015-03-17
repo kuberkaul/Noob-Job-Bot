@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html class="nojs"><head>
+    <title>city of san francisco software/QA/DBA/etc jobs classifieds  - craigslist</title>
+
+    <meta name="description" content="city of san francisco software/QA/DBA/etc jobs classifieds  - craigslist">
+    <link rel="alternate" type="application/rss+xml" href="/sfc/sof/index.rss" title="RSS feed for craigslist | software/QA/DBA/etc jobs  in city of san francisco ">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/clnew.css?v=6995bca11b391d59f27f37f7d31a755a">
+    <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-1.9.2.custom.css?v=cb67f2e720fe8a2c7d83234590b2d1ed">
+    
+    
+    
+		<script type="text/javascript"><!--
+			var currencySymbol = null;
+var zoomToPosting = null;
+var showInfoText = "show info";
+var imageHost = "http://images.craigslist.org";
+var lessInfoText = "less info";
+var showMapTabs = 1;
+var areaCountry = "US";
+var areaID = "1";
+var starHint = "save this post in your favorites list";
+var expFaves = null;
+var pID = null;
+var catAbb = "sof";
+var catType = "jjj";
+
+		--></script>
+	
+    
+		<script type="text/javascript"><!--
+			var lsDomain = "www";
+
+		--></script>
+	
+    <!--[if lt IE 9]>
+<script type="text/javascript" src="//www.craigslist.org/js/html5shiv.js?v=ed7af45dcbda983c8455631037ebcdda" ></script>
+<![endif]-->
+</head>
+
+<body class="toc">
+    <script type="text/javascript"><!--
+	function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+	var pagetype, pagemode;
+	(function(){
+		var h = document.documentElement;
+		h.className = h.className.replace('nojs', '');
+		var b = document.body;
+		var bodyClassList = b.className.split(/\s+/);;
+		pagetype = bodyClassList[0];
+		var fmt = C('cl_fmt');
+		if (fmt) {
+			pagemode = fmt;
+			bodyClassList.push(fmt);
+		} else if (screen.width <= 480) {
+			pagemode = 'mobile';
+			bodyClassList.push(pagemode);
+		}
+		var width = window.innerWidth || document.documentElement.clientWidth;
+		if (width > 1000) { bodyClassList.push('w1024'); }
+		if (typeof catType !== 'undefined') {
+			var mode = (decodeURIComponent(C('cl_img') || '').match(new RegExp(catType + ':([^,]+)', 'i')) || {})[1];
+			for (var i = 0, len = bodyClassList.length; i < len; i++){
+				if (bodyClassList[i] === 'map') { mode = undefined; }
+			}
+			if (mode) { bodyClassList.push(mode); }
+		}
+		b.className = bodyClassList.join(' ');
+	}());
+--></script>
+
+
+    <article id="pagecontainer">
+
+        <header class="bchead">
+	<div class="contents closed">
+		<div class="topright_box">
+			<div id="ef">
+	[ <a href="http://www.craigslist.org/about/help/">help</a> ] 
+	[ <a href="https://post.craigslist.org/c/sfo?lang=en">post</a> ]
+</div>
+			<div id="favorites">
+    <a href="#" class="favlink"><span class="n">0</span> favorites</a>
+</div>
+		</div>
+		<div class="dropdown down">&or;</div>
+		<div class="dropdown up">&and;</div>
+		<div class="leftside">
+            <button class="back">&lt;</button>
+            <div class="breadbox">
+                <div class="breadcrumbs">
+                    <span class="crumb"><a href="//www.craigslist.org/about/sites">CL</a></span>
+                    <span class="crumb"><a href="/">SF bay area</a></span>  <span class="crumb"><a href="/sfc/">san francisco</a></span>   <span class="crumb"><a href="/sfc/jjj/">jobs</a></span> <span class="crumb"><a href="/sfc/sof/">software/QA/DBA/etc jobs</a></span>
+                </div>
+            </div>
+		</div>
+        <div id="satabs" class="tabcontainer"><a href="/sof/">all SF bay area</a><b>san francisco</b><a href="/sby/sof/">south bay</a><a href="/eby/sof/">east bay</a><a href="/pen/sof/">peninsula</a><a href="/nby/sof/">north bay</a><a href="/scz/sof/">santa cruz</a></div>
+
+	</div>
+</header>
+
+        <blockquote class="searchform">
+            
+		<script type="text/javascript"><!--
+			var catAbb = "sof";
+
+		--></script>
+	
+<form action="/search/sof/sfc" id="searchform" method="get" accept-charset="utf-8">
+
+    <fieldset id="searchfieldset">
+    <legend id="searchlegend"><select id="catAbb" name="catAbb">
+
+                <option value="ccc">all community
+
+                <option value="eee">all event
+
+                <option value="sss">all for sale / wanted
+
+                <option value="ggg">all gigs
+
+                <option value="hhh">all housing
+
+                <option value="jjj">all jobs
+<option disabled value="">--
+<option value="ofc"> admin/office jobs
+<option value="bus"> business jobs
+<option value="csr"> customer service jobs
+<option value="edu"> education jobs
+<option value="egr"> engineering jobs
+<option value="etc"> etcetera jobs
+<option value="acc"> finance jobs
+<option value="fbh"> food/bev/hosp jobs
+<option value="lab"> general labor jobs
+<option value="gov"> government jobs
+<option value="hea"> healthcare jobs
+<option value="hum"> human resource jobs
+<option value="eng"> internet engineering jobs
+<option value="lgl"> legal jobs
+<option value="mnu"> manufacturing jobs
+<option value="mar"> marketing jobs
+<option value="med"> media jobs
+<option value="npo"> nonprofit jobs
+<option value="rej"> real estate jobs
+<option value="rfh"> retail/food/hospitality jobs
+<option value="ret"> retail/wholesale jobs
+<option value="sls"> sales jobs
+<option value="spa"> salon/spa/fitness
+<option value="sci"> science jobs
+<option value="sec"> security jobs
+<option value="trd"> skilled trades jobs
+<option value="sof" selected> software jobs
+<option value="sad"> systems/networking jobs
+<option value="tch"> tech support jobs
+<option value="trp"> transport jobs
+<option value="tfr"> tv video radio jobs
+<option value="web"> web design jobs
+<option value="wri"> writing jobs
+<option disabled value="">--
+
+                <option value="ppp">all personals
+
+                <option value="res">all resume
+
+                <option value="bbb">all services offered
+</select></legend>
+	<div class="experimentalFeature">
+    	     
+    	</div>
+	<div id="searchtable">
+		<span class="searchgroup">
+			<span>
+				<input id="query" name="query" size="24" value="" placeholder="search" autocorrect="off" autocapitalize="off">
+			</span>
+			<input id="searchbtn" type="submit" value="search">
+		</span>
+		<span class="searchgroup">
+			<span id="searchchecks">
+				<input type="checkbox" name="useMap" id="useMap" style="display:none;" value="1">
+				<input id="zoomtoposting" type="hidden" name="zoomToPosting" value="">
+			</span>
+		</span>
+
+		
+
+		<span class="searchgroup">
+	<label>
+		<input type="checkbox" name="addOne"
+			id="tc" value="telecommuting">telecommute
+	</label>
+</span>
+<span class="searchgroup">
+	<label>
+		<input type="checkbox" name="addTwo"
+			id="ct" value="contract">contract
+	</label>
+</span>
+<span class="searchgroup">
+	<label>
+		<input type="checkbox" name="addThree"
+			id="it" value="internship">internship
+	</label>
+</span>
+<span class="searchgroup">
+	<label>
+		<input type="checkbox" name="addFour"
+			id="pt" value="part-time">part-time
+	</label>
+</span>
+<span class="searchgroup">
+	<label>
+		<input type="checkbox" name="addFive"
+			id="np" value="non-profit">non-profit
+	</label>
+</span>
+
+		<span class="searchgroup"><span id="hoodpicker"><span class="searchgroup">
+<div style="position: relative;">
+    <noscript>
+        <select name="nh">
+            <option value="">all neighborhoods</option>
+            <option value="149">alamo square / nopa</option>
+<option value="110">bayview</option>
+<option value="3">bernal heights</option>
+<option value="4">castro / upper market</option>
+<option value="5">cole valley / ashbury hts</option>
+<option value="6">downtown / civic / van ness</option>
+<option value="7">excelsior / outer mission</option>
+<option value="8">financial district</option>
+<option value="9">glen park</option>
+<option value="11">haight ashbury</option>
+<option value="12">hayes valley</option>
+<option value="13">ingleside / SFSU / CCSF</option>
+<option value="14">inner richmond</option>
+<option value="15">inner sunset / UCSF</option>
+<option value="16">laurel hts / presidio</option>
+<option value="10">lower haight</option>
+<option value="20">lower nob hill</option>
+<option value="24">lower pac hts</option>
+<option value="17">marina / cow hollow</option>
+<option value="18">mission district</option>
+<option value="19">nob hill</option>
+<option value="21">noe valley</option>
+<option value="22">north beach / telegraph hill</option>
+<option value="23">pacific heights</option>
+<option value="164">portola district</option>
+<option value="25">potrero hill</option>
+<option value="26">richmond / seacliff</option>
+<option value="27">russian hill</option>
+<option value="1">SOMA / south beach</option>
+<option value="28">sunset / parkside</option>
+<option value="156">tenderloin</option>
+<option value="157">treasure island</option>
+<option value="29">twin peaks / diamond hts</option>
+<option value="2">USF / panhandle</option>
+<option value="118">visitacion valley</option>
+<option value="30">western addition</option>
+<option value="114">west portal / forest hill</option>
+
+        </select>
+    </noscript>
+
+    <button id="hoodtitle" type="button" style="display:none;">
+        <span id="hoodtogon">[+]</span><span id="hoodtogoff">[-]</span>
+        <span id="hoodcount">all</span> neighborhoods
+    </button>
+    <select name="nh" id="nh" multiple="multiple" disabled="disabled">
+        <option id="all" value="">all neighborhoods</option>
+        <option value="149">alamo square / nopa</option>
+<option value="110">bayview</option>
+<option value="3">bernal heights</option>
+<option value="4">castro / upper market</option>
+<option value="5">cole valley / ashbury hts</option>
+<option value="6">downtown / civic / van ness</option>
+<option value="7">excelsior / outer mission</option>
+<option value="8">financial district</option>
+<option value="9">glen park</option>
+<option value="11">haight ashbury</option>
+<option value="12">hayes valley</option>
+<option value="13">ingleside / SFSU / CCSF</option>
+<option value="14">inner richmond</option>
+<option value="15">inner sunset / UCSF</option>
+<option value="16">laurel hts / presidio</option>
+<option value="10">lower haight</option>
+<option value="20">lower nob hill</option>
+<option value="24">lower pac hts</option>
+<option value="17">marina / cow hollow</option>
+<option value="18">mission district</option>
+<option value="19">nob hill</option>
+<option value="21">noe valley</option>
+<option value="22">north beach / telegraph hill</option>
+<option value="23">pacific heights</option>
+<option value="164">portola district</option>
+<option value="25">potrero hill</option>
+<option value="26">richmond / seacliff</option>
+<option value="27">russian hill</option>
+<option value="1">SOMA / south beach</option>
+<option value="28">sunset / parkside</option>
+<option value="156">tenderloin</option>
+<option value="157">treasure island</option>
+<option value="29">twin peaks / diamond hts</option>
+<option value="2">USF / panhandle</option>
+<option value="118">visitacion valley</option>
+<option value="30">western addition</option>
+<option value="114">west portal / forest hill</option>
+
+    </select>
+</div>
+</span></span></span>
+		<span class="searchgroup">
+			<label>
+				<input type="checkbox" name="hasPic" value="1" ><span class="haspic">pic</span>
+			</label>
+			<label>
+					<input type="checkbox" name="srchType" value="T"
+					title="search only posting titles">title
+			</label>
+		</span>
+
+        
+	</div>
+    </fieldset>
+</form>
+        </blockquote>
+
+        <section class="body">
+            <section class="favlistinfo">
+                
+                
+            </section>
+
+            <div id="toc_rows">
+                <div class="toc_legend">
+                    <div class="center">
+                        <span class="tocview buttongroup"><a href="#list" title="show results in a list" class="mode button" data-view="list" id="listview">list</a><a href="#pic" title="show results in a list with thumbnail pictures" class="mode button" data-view="pic" id="picview">thumb</a><a href="#grid" title="show results side-by-side with larger pictures" class="mode button" data-view="grid" id="gridview">gallery</a><a href="#map" title="show results on a map" class="mapview mode button" data-view="map" id="mapview">map</a></span><span class="paginator buttongroup">
+<span class="button first" title="first page"> &lt;&lt; </span><span class="button prev" title="previous page"> &lt; prev </span><span class="button pagenum">1 - 100 </span><a href='/sfc/sof/index100.html' class="button next" title="next page"> next &gt; </a>
+</span><span class="tocsort buttongroup"><span class="button sel">newest</span></span>
+                    </div>
+                </div>
+
+                <div class="content">
+                    
+                    <h4 class="ban"><span class="bantext">Fri Nov 15</span></h4>
+ <p class="row" data-pid="4194775254"> <a href="/sfc/sof/4194775254.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4194775254.html">iPhone Developer</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4194511924"> <a href="/sfc/sof/4194511924.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4194511924.html">Software Expert-Embedded (C/C++)</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4194492492"> <a href="/sfc/sof/4194492492.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4194492492.html">Mobile QA Engineer </a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4194489401"> <a href="/sfc/sof/4194489401.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4194489401.html">Senior Software Java Engineer - NoSQL</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4194486623"> <a href="/sfc/sof/4194486623.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4194486623.html">Senior QA Automation Engineer - Selenium</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4194478779"> <a href="/sfc/sof/4194478779.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4194478779.html">Analytics Engineer - Java</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4194471734"> <a href="/sfc/sof/4194471734.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4194471734.html">SeniorAndroid Developer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.777089" data-longitude="-122.394981" data-pid="4194184233"> <a href="/sfc/sof/4194184233.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4194184233.html">Senior Software Engineer &amp; 4 Java eng for stealth, funded, startup</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4194184233">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.777089" data-longitude="-122.394981" data-pid="4194120415"> <a href="/sfc/sof/4194120415.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4194120415.html">Development Operations Engineer for hot, stealth, funded, startup</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4194120415">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4193979964"> <a href="/sfc/sof/4193979964.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4193979964.html">Software QA Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4193974688"> <a href="/sfc/sof/4193974688.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4193974688.html">Database Administrator</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4193970323"> <a href="/sfc/sof/4193970323.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4193970323.html">Software Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4193967234"> <a href="/sfc/sof/4193967234.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4193967234.html">Senior Software Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4193960228"> <a href="/sfc/sof/4193960228.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4193960228.html">Front-end Software Engineer - Technical Lead or Architect</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4193873463"> <a href="/sfc/sof/4193873463.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4193873463.html">prefunding / stealth snapchat clone seeking gurus &amp; funding</a> </span> <span class="l2">   <span class="pnr"> <small> (SF or Remote)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.777089" data-longitude="-122.394981" data-pid="4193806728"> <a href="/sfc/sof/4193806728.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4193806728.html">Integration engineer at funded, Stealth, startup</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4193806728">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4193758154"> <a href="/sfc/sof/4193758154.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4193758154.html">Senior Software Engineer - Java</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4193670530"> <a href="/sfc/sof/4193670530.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/4193670530.html">QA Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p>
+ <p class="row" data-pid="3870680474"> <a href="/sfc/sof/3870680474.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/3870680474.html">craigslist is hiring a web QA automation engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="3472121988"> <a href="/sfc/sof/3472121988.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/3472121988.html">craigslist is hiring web developers</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="3681420200"> <a href="/sfc/sof/3681420200.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/3681420200.html">craigslist is hiring perl developers</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="3472116015"> <a href="/sfc/sof/3472116015.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 15</span>  <a href="/sfc/sof/3472116015.html">craigslist is hiring javascript developers</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+<h4 class="ban"><span class="bantext">Thu Nov 14</span></h4>
+ <p class="row" data-pid="4192710179"> <a href="/sfc/sof/4192710179.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4192710179.html">Full-Time CTO for Mission-Driven Mental Health Startup</a> </span> <span class="l2">   <span class="pnr"> <small> (SF or Remote)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4192491446"> <a href="/sfc/sof/4192491446.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4192491446.html">Performance Engineer, Chatter Scalability @ Salesforce</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4192445989"> <a href="/sfc/sof/4192445989.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4192445989.html">Senior MySQL Database Administrator</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4192415306"> <a href="/sfc/sof/4192415306.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4192415306.html">Senior PHP Developer </a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4192298749"> <a href="/sfc/sof/4192298749.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4192298749.html">Java Developer </a> </span> <span class="l2">   <span class="pnr"> <small> (downtown / civic / van ness)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4192297086"> <a href="/sfc/sof/4192297086.html" class="i" data-id="0:00v0v_dwiuODvX8uK"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4192297086.html">Software Engineer - Web Applications</a> </span> <span class="l2">   <span class="pnr"> <small> (downtown / civic / van ness)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4192193583"> <a href="/sfc/sof/4192193583.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4192193583.html">Sr. Technical Product Manager</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4192187244"> <a href="/sfc/sof/4192187244.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4192187244.html">MySQL DBA for Gaming Company</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4192115355"> <a href="/sfc/sof/4192115355.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4192115355.html">Senior Systems Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191994447"> <a href="/sfc/sof/4191994447.html" class="i" data-id="0:00505_a2fCdfmaX22"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191994447.html">Cloud Operations Architect</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191833411"> <a href="/sfc/sof/4191833411.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191833411.html">Salesforce Developer</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191653233"> <a href="/sfc/sof/4191653233.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191653233.html">Full Stack Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.795839" data-longitude="-122.403379" data-pid="4191615372"> <a href="/sfc/sof/4191615372.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191615372.html">Technical Project Manager @ Direct Commerce</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4191615372">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.791065" data-longitude="-122.401622" data-pid="4191613073"> <a href="/sfc/sof/4191613073.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191613073.html">Sr. Software Engineer @ Cardpool</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4191613073">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.795839" data-longitude="-122.403379" data-pid="4191607799"> <a href="/sfc/sof/4191607799.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191607799.html">Sr. Java Engineer @ Direct Commerce </a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4191607799">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191604216"> <a href="/sfc/sof/4191604216.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191604216.html">Sr. Backend Eng @ Scribd -build the world's largest online library</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191585958"> <a href="/sfc/sof/4191585958.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191585958.html">iOS Developer @ Scribd</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191581086"> <a href="/sfc/sof/4191581086.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191581086.html">Help make loans accessible! Python/RoR Engineer @ Funding Circle USA</a> </span> <span class="l2">   <span class="pnr"> <small> (north beach / telegraph hill)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191552468"> <a href="/sfc/sof/4191552468.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191552468.html">Help us get our prototype off the ground - Sr. iOS Eng. @ Zendrive</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.790359" data-longitude="-122.393092" data-pid="4191545955"> <a href="/sfc/sof/4191545955.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191545955.html">Software Engineer @ Cardpool</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4191545955">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191543340"> <a href="/sfc/sof/4191543340.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191543340.html">Sr. Backend Engineer @ Direct Commerce</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191483628"> <a href="/sfc/sof/4191483628.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191483628.html">Engineering Manager @ Yelp!</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA, SF)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191450413"> <a href="/sfc/sof/4191450413.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191450413.html">Data Scientist at Yelp!</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191444355"> <a href="/sfc/sof/4191444355.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191444355.html">Lead Software Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4191374171"> <a href="/sfc/sof/4191374171.html" class="i" data-id="0:00Q0Q_kACsovw3n1K"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191374171.html">PHP/MYSQL/XML - No Telecommute </a> </span> <span class="l2">   <span class="pnr"> <small> (potrero hill)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.786400" data-longitude="-122.389200" data-pid="4191105910"> <a href="/sfc/sof/4191105910.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 14</span>  <a href="/sfc/sof/4191105910.html">Test Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4191105910">map</a></span></span> </span>  </span> </p>
+<h4 class="ban"><span class="bantext">Wed Nov 13</span></h4>
+ <p class="row" data-pid="4190470026"> <a href="/sfc/sof/4190470026.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190470026.html">Senior Java Software Engineer </a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4190465672"> <a href="/sfc/sof/4190465672.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190465672.html">Senior Software Engineer in Test</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4190460703"> <a href="/sfc/sof/4190460703.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190460703.html">Senior Development Operations Engineer - DevOps</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.762100" data-longitude="-122.397100" data-pid="4190405526"> <a href="/sfc/sof/4190405526.html" class="i" data-id="0:00w0w_5C2WhphsVG3"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190405526.html">Software Development Manager-NetSuite</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4190405526">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4190374798"> <a href="/sfc/sof/4190374798.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190374798.html">DevOps Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4190334332"> <a href="/sfc/sof/4190334332.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190334332.html">Front End Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (Santa Barbara)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.762100" data-longitude="-122.397100" data-pid="4190315098"> <a href="/sfc/sof/4190315098.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190315098.html">Sr.  QA Engineer (Join Our Awesome Startup)</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4190315098">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.767024" data-longitude="-122.403734" data-pid="4190222115"> <a href="/sfc/sof/4190222115.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190222115.html">Senior Localization Project Manager </a> </span> <span class="l2">   <span class="pnr"> <small> (potrero hill)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4190222115">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4190165346"> <a href="/sfc/sof/4190165346.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190165346.html">LAMP Architect</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4190079167"> <a href="/sfc/sof/4190079167.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4190079167.html">SAP BPC/FICO Consultant</a> </span> <span class="l2">   <span class="pnr"> <small> (laurel hts / presidio)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.794474" data-longitude="-122.398918" data-pid="4189998216"> <a href="/sfc/sof/4189998216.html" class="i" data-id="0:00k0k_k8aQqvHHRRn"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189998216.html">Hadoop Developer / Engineer / Cluster Wrangler</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4189998216">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4189981343"> <a href="/sfc/sof/4189981343.html" class="i" data-id="0:00h0h_pcQeBHEOvI"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189981343.html">Sexy startup seeking QA Master for meaningful relationship!!!</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4189817220"> <a href="/sfc/sof/4189817220.html" class="i" data-id="0:01414_65MMs2BmrtX"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189817220.html">Substantial seeking Sr Rails Developer</a> </span> <span class="l2">   <span class="pnr"> <small> (tenderloin)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4189799253"> <a href="/sfc/sof/4189799253.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189799253.html">Senior Tech Program Manager- Cloud Player - Amazon Music</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4189675400"> <a href="/sfc/sof/4189675400.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189675400.html">QA Automation Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4189627623"> <a href="/sfc/sof/4189627623.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189627623.html">Software Engineer, Game Server @ DeNA</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4189622837"> <a href="/sfc/sof/4189622837.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189622837.html">Co-Founder or Development Support</a> </span> <span class="l2">   <span class="pnr"> <small> (Bay Area)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.791152" data-longitude="-122.400937" data-pid="4189434125"> <a href="/sfc/sof/4189434125.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189434125.html">Senior Software Development Engineer - Java, Data Quality - ZILLOW</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="4189434125">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.790039" data-longitude="-122.402190" data-pid="4189365846"> <a href="/sfc/sof/4189365846.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189365846.html">Network Systems Administrator (Linux)</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4189365846">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4189353632"> <a href="/sfc/sof/4189353632.html" class="i" data-id="0:01717_fiBHNMzMVwI"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189353632.html">Game Tester (PennyPop)</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> pic</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4189247425"> <a href="/sfc/sof/4189247425.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189247425.html">Software QA Architect/Lead </a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.786400" data-longitude="-122.389200" data-pid="4189071018"> <a href="/sfc/sof/4189071018.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 13</span>  <a href="/sfc/sof/4189071018.html">Software Engineer - Helix</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4189071018">map</a></span></span> </span>  </span> </p>
+<h4 class="ban"><span class="bantext">Tue Nov 12</span></h4>
+ <p class="row" data-pid="4188544633"> <a href="/sfc/sof/4188544633.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188544633.html">Product Manager - Mobile Web (Touch)</a> </span> <span class="l2">   <span class="pnr"> <small> (downtown / civic / van ness)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188539292"> <a href="/sfc/sof/4188539292.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188539292.html">Build and Release Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (downtown / civic / van ness)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188536549"> <a href="/sfc/sof/4188536549.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188536549.html">Senior Systems Administrator</a> </span> <span class="l2">   <span class="pnr"> <small> (downtown / civic / van ness)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188312376"> <a href="/sfc/sof/4188312376.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188312376.html">Ruby on Rails Developer for Educational Software Company</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188267140"> <a href="/sfc/sof/4188267140.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188267140.html">Senior Software Engineer - Java</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188232097"> <a href="/sfc/sof/4188232097.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188232097.html">Senior Quality Assurance (QA) Engineer</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188092916"> <a href="/sfc/sof/4188092916.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188092916.html">Senior Software Engineer in Test Automation</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188091226"> <a href="/sfc/sof/4188091226.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188091226.html">C++ Software Engineer / Architect</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188087668"> <a href="/sfc/sof/4188087668.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188087668.html">Senior Embedded Software Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188085926"> <a href="/sfc/sof/4188085926.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188085926.html">Flight Controls Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188084248"> <a href="/sfc/sof/4188084248.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188084248.html">Research &amp; Development Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188082736"> <a href="/sfc/sof/4188082736.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188082736.html">Senior Technical Project Manager</a> </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.797400" data-longitude="-122.400100" data-pid="4188065999"> <a href="/sfc/sof/4188065999.html" class="i" data-id="0:00R0R_99Fio6pMPC0"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188065999.html">QA Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (SF (Distributed))</small> <span class="px"> <span class="p"> pic&nbsp;<a href="#" class="maptag" data-pid="4188065999">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.781200" data-longitude="-122.461400" data-pid="4188055823"> <a href="/sfc/sof/4188055823.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188055823.html">Program Manager, Digital Asset Manager</a> </span> <span class="l2">   <span class="pnr"> <small> (California Academy of Sciences)</small> <span class="px"> <span class="p"> img&nbsp;<a href="#" class="maptag" data-pid="4188055823">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4188014994"> <a href="/sfc/sof/4188014994.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4188014994.html">Mobile E-commerce - Integration Developer and Solutions Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco, CA)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p>
+ <p class="row" data-latitude="37.762100" data-longitude="-122.397100" data-pid="4187892121"> <a href="/sfc/sof/4187892121.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187892121.html">Senior iOS Developer (Join Our Awesome Startup)</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco)</small> <span class="px"> <span class="p"> <a href="#" class="maptag" data-pid="4187892121">map</a></span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187779999"> <a href="/sfc/sof/4187779999.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187779999.html">Server-side Software Engineer @ GELI--Not Just Another Web App  Shop</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187710467"> <a href="/sfc/sof/4187710467.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187710467.html">Software Engineer in Test</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco, CA)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187505732"> <a href="/sfc/sof/4187505732.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187505732.html">Advertising Operations Coordinator</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187374385"> <a href="/sfc/sof/4187374385.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187374385.html">Business Analyst-Business Transformation and New Business Models</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco, CA)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187335406"> <a href="/sfc/sof/4187335406.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187335406.html">Technical Project Manager @ Direct Commerce</a> </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187260113"> <a href="/sfc/sof/4187260113.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187260113.html">Senior Data Engineer</a> </span> <span class="l2">   <span class="pnr"> <small> (San Francisco, CA)</small> <span class="px"> <span class="p"> img</span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187163861"> <a href="/sfc/sof/4187163861.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187163861.html">Senior Malware R&amp;D Engineer-FT, NO telecommute</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187142867"> <a href="/sfc/sof/4187142867.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187142867.html">UI/UX Developer-FT, NO telecommute</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187132034"> <a href="/sfc/sof/4187132034.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187132034.html">Director of UX-FT, NO telecommute</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187116054"> <a href="/sfc/sof/4187116054.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187116054.html">Sr QA/Test Engineer-FT, NO telecommute</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187101971"> <a href="/sfc/sof/4187101971.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187101971.html">Sr Systems Administrator-FT, NO telecommute</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187083555"> <a href="/sfc/sof/4187083555.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187083555.html">Android Developer-FT, NO telecommute</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187072008"> <a href="/sfc/sof/4187072008.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187072008.html">Configuration Manager-FT, NO telecommute</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+ <p class="row" data-pid="4187055409"> <a href="/sfc/sof/4187055409.html" class="i"></a> <span class="star"></span> <span class="pl"> <span class="date">Nov 12</span>  <a href="/sfc/sof/4187055409.html">Sr Ruby on Rails Engineer-FT, NO telecommute</a> </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p"> </span></span> </span>  </span> </p>
+
+                    
+                </div>
+
+                <div class="toc_legend bottom"><div class="center"><div class='bottompaginator'><span class="paginator buttongroup">
+<span class="button first" title="first page"> &lt;&lt; </span><span class="button prev" title="previous page"> &lt; prev </span><span class="button pagenum">1 - 100 </span><a href='/sfc/sof/index100.html' class="button next" title="next page"> next &gt; </a>
+</span></div></div></div>
+
+            </div>
+            <div id="floater">
+                <img class="loading" src="http://www.craigslist.org/images/map/animated-spinny.gif">
+                <img class="payload" src="http://www.craigslist.org/images/map/animated-spinny.gif">
+            </div>
+
+
+
+            <section class="blurbs">
+                <blockquote id="messagetable"><div id="messages"><span class="hl"> [ <a href="/about/craigslist_is_hiring"><font size="+1"><span style="background-color: #FFFFCC"><img src="http://www.craigslist.org/favicon.ico"> CL jobs</span></font></a> ] </span>
+<span class="hl"> [ <a href="http://youtube.com/craigslist">tv</a> ] </span>
+<span class="hl"> [ <a href="http://blog.craigslist.org/">blog</a> ] </span>
+<span class="hl"> [ <a href="/about/scams">scams</a> ] </span>
+<span class="hl"> [ <a href="/about/safety">safety</a> ] </span>
+<span class="hl"> [ <a href="/about/prohibited.items">prohibited</a> ] </span>
+</div></blockquote>
+            </section>
+        </section>
+        
+        <ul id="fmtsel">
+	<li><b>FORMAT:</b></li>
+	<li class="fsel" data-mode="mobile">mobile</li>
+	<li class="fsel" data-mode="regular">standard</li>
+</ul>
+<footer>
+	
+			<span class="rss">
+				<a class="l" href="/sfc/sof/index.rss">RSS</a>
+				<a href="http://www.craigslist.org/about/rss">(?)</a><br>
+			</span>
+			
+	<ul class="clfooter">
+		<li>&copy; 2013 craigslist</li>
+		<li><a href="//www.craigslist.org/about/help/">help</a></li>
+		<li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+		<li><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+		<li><a href="//www.craigslist.org/about/scams">safety</a></li>
+		<li><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+		<li><a href="//www.craigslist.org/about/">about</a></li>
+		<li><a href="//www.craigslist.org/about/craigslist_is_hiring" style="color: #0b0">cl jobs</a></li>
+	</ul>
+</footer>
+    </article>
+    <!--[if lte IE 7]>
+        <script type="text/javascript" src="//www.craigslist.org/js/json2.js?v=c1da07f5953739dffc17fd1db3c5313c" ></script>
+    <![endif]-->
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery-1.9.1.js?v=56eaef3b8a28d9d45bb4f86004b0eaae" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery-ui-1.9.2.custom.js?v=32c38510c8db71f2fbef00da891aeaac" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/formats.js?v=de0b68316eab03f147c3451853448c58" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/toChecklist.js?v=b163a7aa23a6dad79076f92e56c622f7" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/jquery.form-defaults.js?v=421648d06bad2f29bbfc2f66c5205aeb" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/tocs.js?v=a8d881d020b7d6cf3fd2918543d425a5" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/favorites.js?v=f710a4aac353592ae2b347f9c9b5c9b3" ></script>
+    <script type="text/javascript" src="//www.craigslist.org/js/search-suggestions.js?v=b556280434a67496b92a2143fccf6f6f" ></script>
+    
+    <script type="text/javascript" src="//www.craigslist.org/js/postings.js?v=a87bf144df25c4ee28bc4905d583626d" defer async></script>
+</body>
+</html>
+
